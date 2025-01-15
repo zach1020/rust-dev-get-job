@@ -1,0 +1,18 @@
+.headerClass {
+
+
+    background-color: #eb5e28;
+    padding: 30px;
+    overflow: hidden;
+
+    position: sticky;
+    top: 0;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+    align-items: center;
+}
