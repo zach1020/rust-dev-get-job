@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "RustDevGetJob - Find Rust Developer Jobs",
+  title: "RustDevFindJob - Find Rust Developer Jobs",
   description: "A site for Rust Dev Jobs",
   icons: {
     icon: "/vercel.svg",      // 16x16 or 32x32
